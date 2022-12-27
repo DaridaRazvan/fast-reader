@@ -4,6 +4,8 @@ Not so fast tho.
 
 ## How to run
 
+Install nodeJS if you don't have it (https://nodejs.org/en/download/)
+
 In the project directory:
 
 ### `npm install`
